@@ -1,2 +1,2 @@
 # install request
-# install Beautifullbs4
+# install BeautifullSoup
